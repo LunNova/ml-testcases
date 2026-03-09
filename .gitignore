@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2026 LunNova
+#
+# SPDX-License-Identifier: CC0-1.0
+
+.ruff_cache
+__pycache__
+target/
+.direnv/
+.claude/
+/.pre-commit-config.yaml
+/result
+/target
+/result*
